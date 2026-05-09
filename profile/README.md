@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://hacknow.uz/logo.svg" alt="HackNow" width="80" />
+<img src="https://hacknow.uz/hacknow-ascii-art.png" alt="HackNow" width="80" />
 
 # HackNow
 
